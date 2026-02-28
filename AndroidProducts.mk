@@ -6,9 +6,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_lahaina.mk
-
-COMMON_LUNCH_CHOICES := \
-    omni_lahaina-user \
-    omni_lahaina-userdebug \
-    omni_lahaina-eng
+    $(LOCAL_DIR)/twrp_lunaa.mk
